@@ -1,0 +1,132 @@
+@charset 'utf-8';
+.main{
+    width: 1800px;
+    height: 600px;
+    margin: auto;
+    padding: auto;
+}
+.head{
+    padding: auto;
+    margin: auto;
+    background-color: rgb(82, 82, 82);
+    height: 100px;
+}
+.slide{
+    padding: 0px 50px;
+    margin: auto;
+    background-color: rgb(151, 150, 150);
+    height: 600px;
+}
+.content{
+      background-color: rgb(196, 193, 193);
+      padding: 20px 30px;
+}
+.block{
+    width: 1100px;
+    display: inline-block;
+}
+.hop1 {  
+    display: inline-block;
+    height: 70px;
+    margin-left: 10px;
+}
+.hop2 {
+    display: inline-block;  
+}
+.hop1 h1{
+     text-align: center;
+     margin: 10px;
+     height: 20px;
+     font-size: 50px;
+}
+.hop2 li{
+    float: left;
+   display: block;
+   width: 190px;  
+   height: 50px;
+   line-height: 50px;
+   padding: auto;
+   text-align: center;
+   font-family: sans-serif;
+}
+.hop2 a:hover {
+color: rgb(255, 255, 255);
+background-color: rgb(0, 0, 0);
+}
+.hop2 a{
+padding: 5px 5px;  
+color: aliceblue;
+}
+.noidung{
+width: 50%;
+display: inline-block;
+}
+.noidung h1{
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+}
+.pic{
+    display: inline-block;
+    margin: 60px 0px;
+}
+.noidung a:hover {
+    background-color: rgb(0, 0, 0);
+}
+.noidung a{
+    padding: 20px 50px;
+    border-radius: 10px;
+    margin-left: 20px;
+    color: rgb(255, 255, 255);
+}
+.link{
+background-color: rgb(100, 100, 100);
+width: 30px;
+}
+.hinh1 img{
+    padding: 0px;
+    margin: 0px; 
+    float: left;
+    display: inline-block;
+}
+.link1 h2{
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+.link1{
+    width: 490px;
+    height: 60px;
+    padding: 20px;
+}
+.box1{
+    display: inline-block;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+.box2{
+    display: inline-block;
+    border-bottom: 2px solid black;
+}
+.box3{
+    display: inline-block;
+    border-right: 2px solid black;
+}
+.box4{
+    display: inline-block;   
+  
+}
+.box5{
+    display: inline-block;
+margin-left: 20px;
+    width:230px;
+    border-left: 2px solid black;
+    padding: 20px 30px;
+}
+.box6{
+    display: inline-block;
+    width: 211px;
+    border-left: 2px solid black;
+    padding: 20px 30px;
+}
+
+
